@@ -54,8 +54,7 @@ Subscription count: 2
 Learn about the interface:
 
 ```bash
-ros2 interface show geometry_msgs/msg/Twist
-
+$ ros2 interface show geometry_msgs/msg/Twist
 This expresses velocity in free space broken into its linear and angular parts.
 
     Vector3  linear
