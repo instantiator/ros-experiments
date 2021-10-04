@@ -1,5 +1,7 @@
 # Topics
 
+See: [Understanding ROS 2 topics](https://docs.ros.org/en/foxy/Tutorials/Topics/Understanding-ROS2-Topics.html)
+
 * Nodes communicate by sending messages through topics.
 * A topic is like a message bus.
 * It's a pub/sub model with many:many relationships.
